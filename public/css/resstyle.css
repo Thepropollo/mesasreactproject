@@ -91,8 +91,7 @@ button:hover, .mesa-button:hover {
 }
 
 .navbar .user-actions a:hover {
-    transform: scale(1.1);
-    background-color: #333; /* Cambia el color de fondo al pasar el cursor */
+    transform: scale(1.1); /* Cambia el color de fondo al pasar el cursor */
     color: #FF8737; /* Cambia el color del texto al contrario */
 }
 
